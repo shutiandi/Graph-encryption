@@ -12,7 +12,7 @@ Currently, the complete data of the basic tile without modifying the underlying 
 克隆仓库:
 bash
 复制
-git clone https://github.com/yourusername/your-repo-name.git  
+git clone https://github.com/shutiandi/Graph-encryption.git
  
 开发架构
 当前项目采用Python作为主要开发语言，目前暂无其他架构的开发计划。
