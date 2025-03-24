@@ -9,27 +9,27 @@ Currently, the complete data of the basic tile without modifying the underlying 
 
 **上手指南**
 
-#环境设置
+# 环境设置
 
-##克隆仓库:
+## 克隆仓库:
 
 bash
 
-###复制
+### 复制
 
 git clone https://github.com/shutiandi/Graph-encryption.git
  
-#开发架构
+# 开发架构
 当前项目采用Python作为主要开发语言，目前暂无其他架构的开发计划。
 
-#版权说明
+# 版权说明
 本项目采用MIT授权许可。详细的许可信息请参见LICENSE文件。
 
-#贡献指南
+# 贡献指南
 我们欢迎各种形式的贡献。如果您有兴趣贡献代码，请阅读我们的贡献指南。
 
-#致谢
+# 致谢
 感谢所有为该项目做出贡献的人，包括但不限于代码贡献者、文档编写者和问题报告者。
 
-#联系信息
+# 联系信息
 如有任何问题，请通过email 与我们联系。
