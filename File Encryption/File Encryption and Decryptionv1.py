@@ -28,3 +28,5 @@ def modify_binary_file(file_path, modify_func, output_path=None):
 
 modify_binary_file(r'E:xiugai0.PNG', byte_plus_one, r'xiugai1.PNG')
 modify_binary_file(r'xiugai1.PNG', byte_dec_one, r'xiugai2.PNG')
+# 有一定风险，请开发时，注意文件数据的安全性验证。
+# 加密后，数据的丰度逐渐趋近，即每种数据的可靠性都临近，因此，文件压缩的压缩率会下降%30-%60之间，请确认是否需要使用该算法进行加密。
