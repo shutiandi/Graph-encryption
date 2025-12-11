@@ -48,4 +48,4 @@ if __name__ == '__main__':
     duichen(readfilename=filename,writefilename=jiamiwrfilename,num=13)
     jiemiwrfilename1="jiemi3.txt"
     duichenjiemi(jiamifile=jiamiwrfilename,jiemifile=jiemiwrfilename1,num=13)
-# txt file 7:34.2;9:32.1;11:30.9;
+# txt file 7:34.2;9:32.1;11:30.9;13:30.1;
